@@ -19,12 +19,27 @@
      id="defs10925">
     <marker
        style="overflow:visible;"
-       id="marker27024"
+       id="marker30130"
        refX="0.0"
        refY="0.0"
        orient="auto"
        inkscape:stockid="Arrow2Lend"
        inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#eb8a2d;stroke-opacity:1;fill:#eb8a2d;fill-opacity:1"
+         id="path30128" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker27024"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          transform="scale(1.1) rotate(180) translate(1,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
@@ -343,8 +358,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.87223258"
-     inkscape:cx="653.53346"
-     inkscape:cy="494.17314"
+     inkscape:cx="476.97504"
+     inkscape:cy="513.66335"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -909,5 +924,10 @@
          x="13.375935"
          y="106.68288"
          style="font-size:4.23333px;fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-opacity:1">System</tspan></text>
+    <path
+       style="fill:none;stroke:#eb8a2d;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker30130)"
+       d="m 280.45833,121.70833 c 15.875,0 29.10417,74.08334 -10.58333,82.02084 C 215.06192,209.53003 129.64583,209.02083 71.4375,190.5 37.041667,177.27083 21.166667,140.22917 21.166667,116.41667"
+       id="path28341"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
