@@ -17,73 +17,6 @@
    sodipodi:docname="AIdiagram.svg">
   <defs
      id="defs2">
-    <marker
-       style="overflow:visible"
-       id="EmptyTriangleOutM"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="EmptyTriangleOutM"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.4) translate(-4.5,0)"
-         style="fill-rule:evenodd;fill:#ffffff;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         id="path1026" />
-    </marker>
-    <marker
-       style="overflow:visible;"
-       id="Arrow1Mend"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path872" />
-    </marker>
-    <marker
-       style="overflow:visible;"
-       id="Arrow1Lend"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path866" />
-    </marker>
-    <marker
-       style="overflow:visible;"
-       id="Arrow2Send"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow2Send"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.3) rotate(180) translate(-2.3,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         id="path896" />
-    </marker>
-    <symbol
-       id="Comment">
-      <title
-         id="title1507">Comment/Annotation</title>
-      <desc
-         id="desc1509">Additional descriptive clarification (connect by dotted line).</desc>
-      <path
-         d="m 35.71875,30.427083 h -31.75 V 9.2604167 h 31.75"
-         style="stroke-width:0.529167"
-         id="path1511" />
-    </symbol>
     <symbol
        id="AuxillaryOp">
       <title
@@ -117,9 +50,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.237916"
-     inkscape:cx="552.80338"
-     inkscape:cy="287.92501"
+     inkscape:zoom="0.77278596"
+     inkscape:cx="505.76679"
+     inkscape:cy="419.5767"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -127,14 +60,16 @@
      units="in"
      objecttolerance="10000"
      guidetolerance="10000"
-     inkscape:window-width="1920"
-     inkscape:window-height="1035"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
      inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="0"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
-       id="grid2202" />
+       id="grid2202"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -158,7 +93,7 @@
        transform="translate(9.7033088,-15.875)">
       <use
          xlink:href="#AuxillaryOp"
-         style="fill:#eea35c;fill-opacity:1;stroke:#000000"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;stroke:#000000"
          id="use1911-5"
          x="0"
          y="0"
@@ -167,7 +102,7 @@
          transform="matrix(1.9790761,0,0,0.75000004,62.370847,38.033854)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="84.92495"
          y="54.296085"
          id="text1971"><tspan
@@ -175,7 +110,7 @@
            id="tspan1969"
            x="84.92495"
            y="54.296085"
-           style="font-size:4.93889px;stroke-width:0.264583">Unsupervised</tspan></text>
+           style="font-size:4.93889px;fill:#000000;stroke-width:0.264583">Unsupervised</tspan></text>
     </g>
     <use
        xlink:href="#AuxillaryOp"
