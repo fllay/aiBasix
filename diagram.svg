@@ -1557,37 +1557,43 @@
       </g>
     </g>
     <g
-       style="fill:#000000;fill-opacity:1"
-       id="g1363">
+       style="fill:#ff7f2a;fill-opacity:1"
+       id="g1363"
+       transform="translate(3)">
       <use
          xlink:href="#glyph10-1"
          x="4.6100001"
          y="114.589"
          id="use1361"
          width="100%"
-         height="100%" />
+         height="100%"
+         style="fill:#ff7f2a" />
     </g>
     <g
-       style="fill:#000000;fill-opacity:1"
-       id="g1367">
+       style="fill:#ff7f2a;fill-opacity:1"
+       id="g1367"
+       transform="translate(3)">
       <use
          xlink:href="#glyph10-1"
          x="4.6100001"
          y="118.574"
          id="use1365"
          width="100%"
-         height="100%" />
+         height="100%"
+         style="fill:#ff7f2a" />
     </g>
     <g
-       style="fill:#000000;fill-opacity:1"
-       id="g1371">
+       style="fill:#ff7f2a;fill-opacity:1"
+       id="g1371"
+       transform="translate(3)">
       <use
          xlink:href="#glyph10-1"
          x="4.6100001"
          y="122.559"
          id="use1369"
          width="100%"
-         height="100%" />
+         height="100%"
+         style="fill:#ff7f2a" />
     </g>
     <g
        id="g1798"
