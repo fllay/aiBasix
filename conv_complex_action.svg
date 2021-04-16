@@ -4361,7 +4361,7 @@
          style="stroke-width:0.185208">-4</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;fill:#00aa44;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#00aa44;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="112.40577"
        y="17.178392"
        id="text16875"><tspan
@@ -4369,7 +4369,7 @@
          id="tspan16873"
          x="112.40577"
          y="17.178392"
-         style="stroke-width:0.264583;fill:#00aa44;">Sliding filter on the image</tspan></text>
+         style="fill:#00aa44;stroke-width:0.264583">Sliding filter on the image</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#00c9ec;stroke-width:1.06461;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16877"
