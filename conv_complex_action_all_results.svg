@@ -1299,15 +1299,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#00aa44;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="17.745289"
-       y="18.164438"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00aa44;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="47.616344"
+       y="18.597353"
        id="text16875"><tspan
          sodipodi:role="line"
          id="tspan16873"
-         x="17.745289"
-         y="18.164438"
-         style="fill:#00aa44;stroke-width:0.264583">Result of sliding filter on the image</tspan></text>
+         x="47.616344"
+         y="18.597353"
+         style="font-size:7.05556px;fill:#00aa44;stroke-width:0.264583">Result of sliding filter on the image</tspan></text>
     <rect
        style="fill:#f3f3f3;stroke:#48a1a1;stroke-width:0.33124;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.980392"
        id="rect4839-8-2-2-7-2-6-2-0"
