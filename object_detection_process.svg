@@ -17,6 +17,12 @@
    sodipodi:docname="object_detection_process.svg">
   <defs
      id="defs1436">
+    <rect
+       x="33.219098"
+       y="13.418401"
+       width="131.9832"
+       height="17.10184"
+       id="rect5019" />
     <marker
        style="overflow:visible"
        id="Arrow1Mend"
@@ -136,8 +142,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49129433"
-     inkscape:cx="746.42791"
-     inkscape:cy="495.20308"
+     inkscape:cx="703.68367"
+     inkscape:cy="631.57754"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -246,7 +252,7 @@
          style="font-size:8.46667px;fill:#44aa00;stroke-width:0.132291">Inference phase</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.29165px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132291"
+       style="font-style:normal;font-weight:normal;font-size:5.29164999999999974px;line-height:1.25;font-family:sans-serif;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.132291;"
        x="46.981106"
        y="200.83524"
        id="text2135"><tspan
@@ -254,10 +260,10 @@
          id="tspan2133"
          x="46.981106"
          y="200.83524"
-         style="stroke-width:0.132291">Selective search</tspan></text>
+         style="stroke-width:0.132291;fill:#ff6600;">Selective search</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.29165px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132291"
+       style="font-style:normal;font-weight:normal;font-size:5.29164999999999974px;line-height:1.25;font-family:sans-serif;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.132291;"
        x="273.52847"
        y="228.23178"
        id="text2165"><tspan
@@ -265,15 +271,15 @@
          id="tspan2163"
          x="273.52847"
          y="228.23178"
-         style="stroke-width:0.132291">Combind overlap region using</tspan><tspan
+         style="stroke-width:0.132291;fill:#ff6600;">Combind overlap region using</tspan><tspan
          sodipodi:role="line"
          x="273.52847"
          y="234.84634"
-         style="stroke-width:0.132291"
+         style="stroke-width:0.132291;fill:#ff6600;"
          id="tspan2167">non-maxima suppression (NMS) </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.29165px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132291"
+       style="font-style:normal;font-weight:normal;font-size:5.29164999999999974px;line-height:1.25;font-family:sans-serif;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.132291;"
        x="363.15677"
        y="174.97537"
        id="text2175"><tspan
@@ -281,7 +287,7 @@
          id="tspan2173"
          x="363.15677"
          y="174.97537"
-         style="stroke-width:0.132291">Detected object</tspan></text>
+         style="stroke-width:0.132291;fill:#ff6600;">Detected object</tspan></text>
     <path
        style="fill:none;stroke:#eaa319;stroke-width:1.2325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
        d="m 363.56959,80.948059 c 0.0545,59.666671 -108.13706,56.594861 -148.47703,57.297881"
@@ -297,14 +303,14 @@
        ry="3.0320666" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132291"
+       style="font-style:normal;font-weight:normal;font-size:2.82222000000000017px;line-height:1.25;font-family:sans-serif;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.132291;"
        x="120.19327"
        y="22.080444"
        id="text1209"><tspan
          sodipodi:role="line"
          x="120.19327"
          y="22.080444"
-         style="font-size:2.82222px;stroke-width:0.132291"
+         style="font-size:2.82222000000000017px;stroke-width:0.132291;fill:#ff6600;"
          id="tspan1416">IoU with the ground truth (the red box)</tspan></text>
     <g
        id="g1388"
@@ -408,7 +414,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132291"
+       style="font-style:normal;font-weight:normal;font-size:3.52777999999999992px;line-height:1.25;font-family:sans-serif;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.132291;"
        x="46.039276"
        y="32.773758"
        id="text2135-9"><tspan
@@ -416,7 +422,7 @@
          id="tspan2133-7"
          x="46.039276"
          y="32.773758"
-         style="font-size:3.52778px;stroke-width:0.132291">Selective search</tspan></text>
+         style="font-size:3.52777999999999992px;stroke-width:0.132291;fill:#ff6600;">Selective search</tspan></text>
     <image
        width="52.916668"
        height="31.75"
@@ -40388,7 +40394,7 @@ NxEL+f27gu+lXH7QFh/k730TC/mDKHwQiw+K4YNYfFjpD2Lx/kqS/EEsPtzeQ23xQRv/tbv873X9
          style="stroke-width:0.264583" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132291"
+       style="font-style:normal;font-weight:normal;font-size:2.82222000000000017px;line-height:1.25;font-family:sans-serif;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.132291;"
        x="62.924683"
        y="80.291519"
        id="text1209-4"><tspan
@@ -40396,11 +40402,11 @@ NxEL+f27gu+lXH7QFh/k730TC/mDKHwQiw+K4YNYfFjpD2Lx/kqS/EEsPtzeQ23xQRv/tbv873X9
          id="tspan1207-5"
          x="62.924683"
          y="80.291519"
-         style="font-size:2.82222px;stroke-width:0.132291">ROIs is determined by selective search and it can find </tspan><tspan
+         style="font-size:2.82222000000000017px;stroke-width:0.132291;fill:#ff6600;">ROIs is determined by selective search and it can find </tspan><tspan
          sodipodi:role="line"
          x="62.924683"
          y="83.819298"
-         style="font-size:2.82222px;stroke-width:0.132291"
+         style="font-size:2.82222000000000017px;stroke-width:0.132291;fill:#ff6600;"
          id="tspan1416-6">1471 total region proposals</tspan></text>
     <path
        style="fill:none;stroke:#eaa319;stroke-width:1.232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
@@ -40425,14 +40431,14 @@ NxEL+f27gu+lXH7QFh/k730TC/mDKHwQiw+K4YNYfFjpD2Lx/kqS/EEsPtzeQ23xQRv/tbv873X9
          id="tspan1416-9">Large IoU</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132291"
+       style="font-style:normal;font-weight:normal;font-size:2.82222000000000017px;line-height:1.25;font-family:sans-serif;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.132291;"
        x="185.99507"
        y="80.952713"
        id="text1209-7-6"><tspan
          sodipodi:role="line"
          x="185.99507"
          y="80.952713"
-         style="font-size:2.82222px;stroke-width:0.132291"
+         style="font-size:2.82222000000000017px;stroke-width:0.132291;fill:#ff6600;"
          id="tspan1416-9-7">Small IoU</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#d72a19;stroke-width:1.232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5013)"
@@ -40450,5 +40456,9 @@ NxEL+f27gu+lXH7QFh/k730TC/mDKHwQiw+K4YNYfFjpD2Lx/kqS/EEsPtzeQ23xQRv/tbv873X9
        x="-5.4785719"
        y="101.81697"
        ry="6.2949934" />
+    <text
+       xml:space="preserve"
+       id="text5017"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5019);fill:#000000;fill-opacity:1;stroke:none;" />
   </g>
 </svg>
