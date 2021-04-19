@@ -316,6 +316,48 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path2188-5-2-1-5-8" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-3-7-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#eaa319;fill-opacity:1;fill-rule:evenodd;stroke:#eaa319;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2188-5-55-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-3-7-1-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#eaa319;fill-opacity:1;fill-rule:evenodd;stroke:#eaa319;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2188-5-55-1-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-3-7-1-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#eaa319;fill-opacity:1;fill-rule:evenodd;stroke:#eaa319;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2188-5-55-1-5" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -324,9 +366,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37287336"
-     inkscape:cx="1029.4018"
-     inkscape:cy="499.92781"
+     inkscape:zoom="0.30085073"
+     inkscape:cx="1400.29"
+     inkscape:cy="105.19486"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -360,56 +402,56 @@
     <rect
        style="fill:#f2f2f2;stroke:#ea9a00;stroke-width:1.233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2057"
-       width="46.067207"
-       height="82.90815"
-       x="398.34216"
-       y="3.1079915"
+       width="46.590347"
+       height="94.67894"
+       x="401.51721"
+       y="-2.1234705"
        ry="6.2949862" />
     <rect
        style="fill:#f2f2f2;stroke:#ea9a00;stroke-width:1.233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2025-2"
        width="48.363914"
        height="61.003475"
-       x="461.617"
-       y="17.634882"
+       x="470.4754"
+       y="17.081232"
        ry="6.2949862" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29165px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132291"
-       x="485.56512"
-       y="26.736334"
+       x="494.42352"
+       y="26.182684"
        id="text2031"><tspan
          sodipodi:role="line"
          id="tspan2029"
-         x="485.56512"
-         y="26.736334"
+         x="494.42352"
+         y="26.182684"
          style="text-align:center;text-anchor:middle;stroke-width:0.132291">Fine tune </tspan><tspan
          sodipodi:role="line"
-         x="485.56512"
-         y="33.350895"
+         x="494.42352"
+         y="32.797245"
          style="text-align:center;text-anchor:middle;stroke-width:0.132291"
          id="tspan2079">image classifier</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29165px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132291"
-       x="407.6882"
-       y="80.793861"
+       x="410.86325"
+       y="90.318871"
        id="text2031-0"><tspan
          sodipodi:role="line"
          id="tspan2029-3"
-         x="407.6882"
-         y="80.793861"
+         x="410.86325"
+         y="90.318871"
          style="stroke-width:0.132291">Background</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29165px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132291"
-       x="412.13135"
-       y="42.978168"
+       x="415.3064"
+       y="35.040661"
        id="text2083"><tspan
          sodipodi:role="line"
          id="tspan2081"
-         x="412.13135"
-         y="42.978168"
+         x="415.3064"
+         y="35.040661"
          style="stroke-width:0.132291">objects</tspan></text>
     <text
        xml:space="preserve"
@@ -462,7 +504,7 @@
          style="fill:#ff6600;stroke-width:0.132291">Detected object</tspan></text>
     <path
        style="fill:none;stroke:#eaa319;stroke-width:1.2325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-       d="m 487.00287,78.735993 c 0.0545,59.666667 -104.3734,39.504537 -144.71337,40.207557"
+       d="m 496.41491,78.182344 c 0.0545,59.666666 -132.47979,55.114316 -172.81976,55.817336"
        id="path2177"
        sodipodi:nodetypes="cc" />
     <text
@@ -18055,7 +18097,7 @@ YgAAAABJRU5ErkJggg==
        y="37.861794" />
     <g
        id="g4508"
-       transform="translate(177.20759,-7.7636142)">
+       transform="translate(180.38261,-15.701118)">
       <image
          width="11.853333"
          height="11.853333"
@@ -26685,7 +26727,7 @@ CSlTIIzPBCQE0kgBS1tTcvfibqSUUrqZ0XQRIcCNpTjfK6WM3xqGcZrGYUhrYo7DuN/v17X1nqX4
     </g>
     <g
        id="g4516"
-       transform="translate(175.34227,-12.959771)">
+       transform="translate(178.51729,-3.4347689)">
       <image
          width="11.853333"
          height="11.853333"
@@ -39830,7 +39872,7 @@ MCJVc54AAAAASUVORK5CYII=
     <g
        id="g4127"
        style="stroke-width:1.4;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.6,0,0,0.6,418.64138,-89.257616)">
+       transform="matrix(0.6,0,0,0.6,427.49977,-89.811265)">
       <image
          width="60.282665"
          height="49.106667"
@@ -42576,5 +42618,42 @@ AAAAAElFTkSuQmCC
          y="213.69812"
          style="fill:#ff6600;stroke-width:0.132291"
          id="tspan7143">with very high score</tspan></text>
+    <path
+       style="fill:none;stroke:#eaa319;stroke-width:1.232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-3-7-1)"
+       d="m 387.80381,16.418728 11.28103,0.0611"
+       id="path2177-4-7-5-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eaa319;stroke-width:1.232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-3-7-1-9)"
+       d="m 387.78264,75.270403 11.28103,0.0611"
+       id="path2177-4-7-5-8-6"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.132291"
+       x="472.77875"
+       y="10.505546"
+       id="text1209-7-3"><tspan
+         sodipodi:role="line"
+         x="472.77875"
+         y="10.505546"
+         style="font-size:4.93889px;fill:#ff6600;stroke-width:0.132291"
+         id="tspan1416-9-8">classifier training</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.132291"
+       x="360.03766"
+       y="-9.7303495"
+       id="text1209-7-3-5"><tspan
+         sodipodi:role="line"
+         x="360.03766"
+         y="-9.7303495"
+         style="font-size:4.93889px;fill:#ff6600;stroke-width:0.132291"
+         id="tspan1416-9-8-6">Generating dataset for image classifier training</tspan></text>
+    <path
+       style="fill:none;stroke:#eaa319;stroke-width:1.232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-3-7-1-2)"
+       d="m 449.47212,47.5633 19.74769,0.0611"
+       id="path2177-4-7-5-8-9"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
